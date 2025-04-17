@@ -1,1 +1,7 @@
-{}
+{
+  "showLineNumber": true,
+  "livePreview": false,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "./attachments",
+  "newFileFolderPath": "0-index"
+}
