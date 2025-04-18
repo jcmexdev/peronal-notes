@@ -1,5 +1,5 @@
 {
-  "showLineNumber": true,
+  "showLineNumber": false,
   "livePreview": false,
   "newFileLocation": "folder",
   "attachmentFolderPath": "./attachments",

@@ -14,7 +14,6 @@ source:
 
 ## Summary
 Brief overview of the topic. What is it? What is it used for? Where is it applied?
-
 ---
 
 ## Key Concepts

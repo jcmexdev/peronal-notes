@@ -25,13 +25,18 @@ This is a preparation guide for mercado libre technical interview, with topics t
 - [x] Codificación
 - [x] Lenguajes
 - [x] Frameworks
-- [ ] [[IoC (inversion of control)]]
+- [X] [[IoC (inversion of control)]]
       Inyección de dependencias / Inversión de dependencias / Inversión de control
-- [ ] Patrones de diseño
-- [ ] Prácticas y principios (SOLID, DRY, YAGNI, Clean Code)
-- [ ] Linters + Static Code Revision
-- [ ] Versionado de código
-- [ ] Versionado de base de datos
+- [x] SOLID
+- [x] DRY
+- [x] YAGNI
+- [x] Clean Code
+- [x] Linters + Static Code Revision
+	- [x] Sonarqube
+- [x] Versionado de código
+- [x] Versionado de base de datos
+	- [x] golang migrate 
+	- [x] goose
 - [ ] Threads / Executors / Routines
 - [ ] Web (HTTP, REST, SOAP, WebSocket)
 - [ ] Microservicios (consumo y desarrollo)
@@ -49,6 +54,7 @@ This is a preparation guide for mercado libre technical interview, with topics t
 - [ ] Paralelismo
 - [ ] Procesos Batch
 - [ ] Pruebas de stress
+- [ ] Patrones de diseño
 
 ## 🗄️ Base de Datos
 
