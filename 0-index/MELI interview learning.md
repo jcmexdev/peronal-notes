@@ -37,7 +37,9 @@ This is a preparation guide for mercado libre technical interview, with topics t
 - [x] Versionado de base de datos
 	- [x] golang migrate 
 	- [x] goose
-- [ ] Threads / Executors / Routines
+- [ ] Concurrencia 
+	- [ ] Threads / Executors / Routines
+- [ ] Paralelismo
 - [ ] Web (HTTP, REST, SOAP, WebSocket)
 - [ ] Microservicios (consumo y desarrollo)
 - [ ] Concepto de idempotencia
@@ -49,12 +51,10 @@ This is a preparation guide for mercado libre technical interview, with topics t
 - [ ] Gestión de tráfico y RPMs
 - [ ] Masividad + Tráfico
 - [ ] Volumen máximo manejado
-- [ ] Concurrencia
 - [ ] Optimistic vs Pessimistic Locking
-- [ ] Paralelismo
 - [ ] Procesos Batch
 - [ ] Pruebas de stress
-- [ ] Patrones de diseño
+- [x] Patrones de diseño
 
 ## 🗄️ Base de Datos
 
