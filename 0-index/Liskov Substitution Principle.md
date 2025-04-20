@@ -1,14 +1,13 @@
 ---
-title: Untitled
-date: 18 de April de 2025
-tags: ["Design System", "Algorithms", "Concept"]
-status: ["todo"]   # opciones: pendiente | en progreso | revisar | aprendido | actualizar | archivado
-level: ["basic"]       # opciones: básico | intermedio | avanzado
-related: ["Related Topic"]
-source: ["Física Universitaria"]
+title: Liskov Substitution Principle
+status:
+  - todo
+level:
+  - basic
+created: 18-04-2025 00:17:48
+updated: 19-04-2025 13:22:50
 ---
 
-Parent: [[S.O.L.I.D]]
 ## 🧩 Liskov Substitution Principle (LSP)
 
 **Definición**:  

@@ -1,9 +1,8 @@
 [
   "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-icon-folder",
   "tag-wrangler",
   "obsidian-linter",
   "templater-obsidian",
-  "editing-toolbar"
+  "update-time-on-edit"
 ]

@@ -1,14 +1,17 @@
 ---
-title: open closed principle
-date: 17 de April de 2025
-tags: ["Design Patterns", "Concept"]
-status: ["todo"]   # opciones: pendiente | en progreso | revisar | aprendido | actualizar | archivado
-level: ["basic"]       # opciones: básico | intermedio | avanzado
-related: [""]
-source: [""]
+title: Open Closed Principle
+status:
+  - todo
+level:
+  - basic
+related:
+  - ""
+source:
+  - ""
+created: 17-04-2025 22:06:10
+updated: 19-04-2025 13:23:01
 ---
 
-Parent: [[S.O.L.I.D]]
 ## OCP - Open/Closed Principle
 
 Definición:

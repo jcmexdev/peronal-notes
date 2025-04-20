@@ -1,11 +1,15 @@
 ---
 title: Horizontal Scaling
-date: 18 de April de 2025
-tags: ["Design System", "Algorithms", "Concept"]
-status: ["todo"]   # opciones: pendiente | en progreso | revisar | aprendido | actualizar | archivado
-level: ["basic"]       # opciones: básico | intermedio | avanzado
-related: ["Related Topic"]
-source: ["Física Universitaria"]
+status:
+  - todo
+level:
+  - basic
+related:
+  - Related Topic
+source:
+  - Física Universitaria
+created: 18-04-2025 13:30:05
+updated: 19-04-2025 13:21:51
 ---
 
 

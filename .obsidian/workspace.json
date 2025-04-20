@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0cede9dfdc1da375",
+        "id": "ed2c1ebfb8686a62",
         "type": "tabs",
         "children": [
           {
-            "id": "a8a432958a6f4c4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-index/Concurrency.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Concurrency"
-            }
-          },
-          {
-            "id": "fb25ef8d49f4a5c4",
+            "id": "1cadeb3e5b1b8361",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,66 +19,9 @@
               },
               "icon": "lucide-file",
               "title": "Threads"
-            }
-          },
-          {
-            "id": "104c0fb94bd9d626",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-index/Threads.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Threads"
-            }
-          },
-          {
-            "id": "1713cdbd0d155aa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-index/Concurrency.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Concurrency"
-            }
-          },
-          {
-            "id": "8a3ab48e866d00bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-index/Software Design.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Software Design"
-            }
-          },
-          {
-            "id": "e17aebc3ee7abb7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-index/YAGNI.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "YAGNI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 349.5
   },
   "right": {
     "id": "9617b173c23784e9",
@@ -166,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/templater/Standard Note.md",
+                "file": "0-index/Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Standard Note"
+              "title": "Backlinks for Threads"
             }
           },
           {
@@ -185,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/templater/Standard Note.md",
+                "file": "0-index/Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Standard Note"
+              "title": "Outgoing links from Threads"
             }
           },
           {
@@ -214,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/templater/Standard Note.md",
+                "file": "0-index/Threads.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Standard Note"
+              "title": "Outline of Threads"
             }
           }
         ]
@@ -239,47 +167,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "ai-tagger:Generate tags!": false
     }
   },
-  "active": "fb25ef8d49f4a5c4",
+  "active": "1cadeb3e5b1b8361",
   "lastOpenFiles": [
-    "3-resources/excalidraw/concurrency-in-os-2025-04-18-23.22.20.excalidraw.md",
+    "3-resources/attachments/threads-sharing-resources.png",
+    "3-resources/attachments",
+    "0-index/attachments/Screenshot 2025-04-19 at 11.43.14 p.m..png",
+    "0-index/attachments",
+    "0-index/Heap (memory).md",
     "0-index/Threads.md",
-    "0-index/Concurrency.md",
-    "0-index/Horizontal Scaling.md",
-    "0-index/MELI interview learning.md",
-    "0-index/YAGNI.md",
-    "0-index/Software Design.md",
-    "0-index/Untitled.md",
-    "0-index/DRY.md",
-    "0-index/Dependency Inversion Principle.md",
-    "0-index/Interface Segregation Principle.md",
-    "0-index/Single Responsibility.md",
-    "0-index/Liskov Substitution Principle.md",
-    "0-index/Open Closed Principle.md",
+    "0-index/Concurrency and Synchronization.md",
+    "0-index/Design Principles.md",
     "0-index/S.O.L.I.D.md",
-    "0-index/TCP protocol.md",
-    "0-index/Dependency Injection.md",
+    "0-index/Parallelism.md",
     "0-index/IoC (inversion of control).md",
-    "0-index/IoC.md",
-    "2-areas/engineering",
-    "Untitled.md",
-    "Untitled 3.md",
-    "3-resources/excalidraw/test drawing.md",
-    "3-resources/excalidraw/attachments/zoom-background.avif",
-    "3-resources/excalidraw/attachments",
+    "0-index/Software Architecture & Design.md",
+    "0-index/Software Engineering.md",
+    "0-index/Computer Networks.md",
+    "0-index/Operating Systems.md",
+    "0-index/Fundamentals of Computer Science.md",
+    "3-resources/excalidraw/concurrency-in-os-2025-04-18-23.22.20.excalidraw.md",
+    "0-index/INDEX.md",
+    "2-areas/software-engineering/software-architecture-and-design/design-principles",
+    "2-areas/software-engineering/computer-networks/transport-protocols",
+    "2-areas/software-engineering/operating-systems/process-and-threat-management",
+    "0-index/Context Switching.md",
+    "0-index/Process & Thread Management.md",
+    "2-areas/software-engineering/software-engineering-practices",
+    "2-areas/software-engineering/software-architecture-and-design",
+    "2-areas/software-engineering/computer-networks",
+    "2-areas/software-engineering/operating-systems",
+    "2-areas/software-engineering/fundamentals-of-computer-science",
+    "0-index/202504181215.md",
+    "0-index/System Optimization Techniques.md",
+    "3-resources/templater/Zettelkasten Note.md",
     "3-resources/templater/Standard Note.md",
-    "3-resources/excalidraw",
-    "attachments",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "3-resources/templater",
-    "Welcome.md",
-    "4-archive",
-    "3-resources",
-    "2-areas",
-    "1-projects",
-    "0-index"
+    "0-index/Single Responsibility.md",
+    "0-index/Open Closed Principle.md",
+    "0-index/Liskov Substitution Principle.md",
+    "0-index/Interface Segregation Principle.md",
+    "0-index/Horizontal Scaling.md",
+    "3-resources/excalidraw/attachments/zoom-background.avif"
   ]
 }

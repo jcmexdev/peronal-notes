@@ -1,11 +1,7 @@
 ---
 title: <% tp.file.title %>
-date: <% tp.date.now("DD [de] MMMM [de] YYYY") %>
-tags: ["Design System", "Algorithms", "Concept"]
 status: ["todo"]   # opciones: pendiente | en progreso | revisar | aprendido | actualizar | archivado
 level: ["basic"]       # opciones: básico | intermedio | avanzado
-related: ["Related Topic"]
-source: ["Física Universitaria"]
 ---
 
 

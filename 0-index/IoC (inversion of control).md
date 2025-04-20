@@ -1,14 +1,12 @@
 ---
 title: IoC (inversion of control)
 date: 16 de April de 2025
-tags:
-  - Concept
 status:
   - todo
 level:
   - basic
-related: 
-source:
+created: 16-04-2025 21:38:52
+updated: 19-04-2025 13:22:36
 ---
 
 
@@ -34,11 +32,12 @@ En lugar de que tu código cree y administre sus propios objetos, otra entidad (
 
 ## 🎯 ¿Para qué sirve?
 
-- Facilita el **desacoplamiento** entre componentes.
-- Mejora la **mantenibilidad** del código.
-- Permite la **inyección de dependencias**, que simplifica pruebas unitarias y reutilización.
-- Favorece la **modularidad** y el crecimiento escalable de la aplicación.
-- Separa claramente el **qué** hace una clase del **cómo** obtiene lo que necesita.
+- Facilita el desacoplamiento entre componentes.
+- Mejora la mantenibilidad del código.
+- Permite la inyección de dependencias, que simplifica pruebas unitarias y reutilización.
+- Favorece la modularidad y el crecimiento escalable de la aplicación.
+- Separa claramente el qué hace una clase del cómo obtiene lo que necesita.
+La forma mas común para aplicar el concepto de IoC es por medio de [[Dependency Injection]]
 
 ---
 
@@ -62,6 +61,7 @@ _Explanation of what it does and why._
 
 ---
 ### Trade offs
+
 ## Example
 
 Describe a solved case or real-world application.

@@ -1,12 +1,12 @@
 ---
-title: TCP protocol
+title: Heap (memory)
 status:
   - todo
-created: 17-04-2025 12:45:18
-updated: 19-04-2025 13:20:31
+created: 19-04-2025 23:36:42
+updated: 19-04-2025 23:37:03
 ---
 
-# Título (ej. Hilo de ejecución en un sistema operativo)
+# TO DO LATET
 
 🔖 **Tags**: 
 

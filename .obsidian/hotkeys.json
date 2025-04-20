@@ -8,13 +8,22 @@
       "key": "T"
     }
   ],
-  "insert-template": [
+  "templater-obsidian:insert-templater": [
     {
       "modifiers": [
         "Alt",
         "Mod"
       ],
       "key": "I"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
     }
   ]
 }

@@ -1,9 +1,7 @@
 ---
-title: TCP protocol
+title: <% tp.file.title %>
 status:
   - todo
-created: 17-04-2025 12:45:18
-updated: 19-04-2025 13:20:31
 ---
 
 # Título (ej. Hilo de ejecución en un sistema operativo)

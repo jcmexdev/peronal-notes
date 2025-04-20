@@ -1,11 +1,16 @@
 ---
 title: Concurrency
 date: 18 de April de 2025
-tags: ["Concurrency"]
-status: ["todo"]   # opciones: pendiente | en progreso | revisar | aprendido | actualizar | archivado
-level: ["advanced"]       # opciones: básico | intermedio | avanzado
+tags:
+  - Concurrency
+status:
+  - todo
+level:
+  - advanced
 related: []
 source: []
+created: 18-04-2025 12:26:57
+updated: 19-04-2025 01:20:26
 ---
 
 

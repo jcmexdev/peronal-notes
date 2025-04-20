@@ -2,6 +2,7 @@
   "showLineNumber": false,
   "livePreview": false,
   "newFileLocation": "folder",
-  "attachmentFolderPath": "./attachments",
-  "newFileFolderPath": "0-index"
+  "attachmentFolderPath": "3-resources/attachments",
+  "newFileFolderPath": "0-index",
+  "alwaysUpdateLinks": true
 }

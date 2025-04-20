@@ -1,14 +1,14 @@
 ---
-title: TCP protocol
+title: Fundamentals of Computer Science
 status:
   - todo
-created: 17-04-2025 12:45:18
-updated: 19-04-2025 13:20:31
+updated: 19-04-2025 15:57:46
+created: 19-04-2025 11:20:07
 ---
 
 # Título (ej. Hilo de ejecución en un sistema operativo)
 
-🔖 **Tags**: 
+🔖 **Tags**: #sofware-engineering
 
 ---
 

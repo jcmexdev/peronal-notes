@@ -1,3 +1,7 @@
+---
+created: 18-04-2025 00:42:21
+updated: 18-04-2025 00:42:24
+---
 ## 🪄 YAGNI — You Aren’t Gonna Need It
 
 **Definición**:  

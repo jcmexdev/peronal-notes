@@ -1,11 +1,11 @@
 ---
 title: Dependency Injection
-date: 17 de April de 2025
-tags: ["Design System", "Algorithms", "Concept"]
-status: ["todo"]   # opciones: pendiente | en progreso | revisar | aprendido | actualizar | archivado
-level: ["basic"]       # opciones: básico | intermedio | avanzado
-related: ["Related Topic"]
-source: ["Física Universitaria"]
+status:
+  - todo
+level:
+  - basic
+created: 17-04-2025 15:20:47
+updated: 19-04-2025 13:21:17
 ---
 
 

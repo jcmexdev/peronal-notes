@@ -1,14 +1,14 @@
 ---
 title: Untitled
-date: 18 de April de 2025
-tags: ["Design System", "Algorithms", "Concept"]
-status: ["todo"]   # opciones: pendiente | en progreso | revisar | aprendido | actualizar | archivado
-level: ["basic"]       # opciones: básico | intermedio | avanzado
-related: ["Related Topic"]
-source: ["Física Universitaria"]
+status:
+  - todo
+level:
+  - basic
+created: 18-04-2025 00:29:02
+updated: 19-04-2025 13:21:31
 ---
 
-¡Vamos con la última pieza del rompecabezas [[S.O.L.I.D]]!  
+¡Vamos con la última pieza del rompecabezas!  
 La **D** es uno de los pilares más importantes para lograr **bajo acoplamiento y alta flexibilidad** en sistemas bien diseñados.
 
 ---

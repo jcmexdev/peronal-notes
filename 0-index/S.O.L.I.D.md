@@ -1,17 +1,19 @@
 ---
 title: S.O.L.I.D
-date: 17 de April de 2025
-tags:
-  - Concept
-  - Design
 status:
   - todo
 level:
   - basic
-related: 
-source:
+created: 17-04-2025 17:25:22
+updated: 19-04-2025 13:26:15
 ---
 
+##  Key Concepts
+- [[Single Responsibility]]
+- [[Open Closed Principle]]
+- [[Liskov Substitution Principle]]
+- [[Interface Segregation Principle]]
+- [[Dependency Inversion Principle]]
 
 ¡Perfecto! Acá va la **metáfora de los alfajores** completa para entender los principios SOLID como si fueran una **fábrica de alfajores en Argentina** 🇦🇷✨
 

@@ -1,14 +1,13 @@
 ---
 title: Untitled
-date: 18 de April de 2025
-tags: ["Design System", "Algorithms", "Concept"]
-status: ["todo"]   # opciones: pendiente | en progreso | revisar | aprendido | actualizar | archivado
-level: ["basic"]       # opciones: básico | intermedio | avanzado
-related: ["Related Topic"]
-source: ["Física Universitaria"]
+status:
+  - todo
+level:
+  - basic
+created: 18-04-2025 00:31:01
+updated: 19-04-2025 13:26:26
 ---
 
-Parent: [[S.O.L.I.D]]
 ## Summary
 Brief overview of the topic. What is it? What is it used for? Where is it applied?
 

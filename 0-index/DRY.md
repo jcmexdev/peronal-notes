@@ -1,3 +1,7 @@
+---
+created: 18-04-2025 00:41:14
+updated: 18-04-2025 00:41:17
+---
 ## 💧 DRY — Don't Repeat Yourself
 
 **Definición**:  

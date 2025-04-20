@@ -1,13 +1,16 @@
 ---
-title: Untitled
-date: 18 de April de 2025
-tags: ["Design System", "Algorithms", "Concept"]
-status: ["todo"]   # opciones: pendiente | en progreso | revisar | aprendido | actualizar | archivado
-level: ["basic"]       # opciones: básico | intermedio | avanzado
-related:
-source: ["Física Universitaria"]
+title: Interface Segregation Principle
+status:
+  - todo
+level:
+  - basic
+related: 
+source:
+  - Física Universitaria
+created: 18-04-2025 00:26:56
+updated: 19-04-2025 13:22:23
 ---
-Parent: [[S.O.L.I.D]]
+
 La **Interface Segregation Principle (ISP)** es uno de los más útiles para mantener tu código limpio y modular, sobre todo cuando trabajás con **interfaces grandes o sistemas con muchas dependencias**.
 
 ---
