@@ -4,7 +4,7 @@ date: 19 de April de 2025
 status:
   - todo
 created: 19-04-2025 12:42:24
-updated: 19-04-2025 15:58:37
+updated: 20-04-2025 17:49:16
 ---
 
 # Computer Networks
@@ -29,6 +29,7 @@ El estudio de redes es fundamental para entender cómo los sistemas se comunican
 
 - [[Network Models]]
 - [[Transport Protocols]]
+- [[Web Communication Protocols]]
 
 ---
 

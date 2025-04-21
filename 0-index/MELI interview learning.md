@@ -10,7 +10,7 @@ level:
 related: 
 source: []
 created: 16-04-2025 21:20:18
-updated: 18-04-2025 13:26:27
+updated: 20-04-2025 19:46:51
 ---
 
 
@@ -39,10 +39,10 @@ This is a preparation guide for mercado libre technical interview, with topics t
 - [x] Versionado de base de datos
 	- [x] golang migrate 
 	- [x] goose
-- [ ] Concurrencia 
-	- [ ] Threads / Executors / Routines
-- [ ] Paralelismo
-- [ ] Web (HTTP, REST, SOAP, WebSocket)
+- [x] Concurrencia 
+	- [x] Threads / Executors / Routines
+- [x] Paralelismo
+- [x] Web (HTTP, REST, SOAP, WebSocket)
 - [ ] Microservicios (consumo y desarrollo)
 - [ ] Concepto de idempotencia
 - [ ] Manejo de Timeouts / Reintentos / Fallbacks / Circuit Breakers

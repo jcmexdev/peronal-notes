@@ -4,24 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "ed2c1ebfb8686a62",
+        "id": "2466b5916764749e",
         "type": "tabs",
         "children": [
           {
-            "id": "1cadeb3e5b1b8361",
+            "id": "2210d631662e9c85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-index/Threads.md",
+                "file": "3-resources/templater/Zettelkasten Note.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Threads"
+              "title": "Zettelkasten Note"
+            }
+          },
+          {
+            "id": "f495b052cd8fdd83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-index/INDEX.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "INDEX"
+            }
+          },
+          {
+            "id": "957c7b5532f00744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-index/Architectural Styles.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Architectural Styles"
+            }
+          },
+          {
+            "id": "e467f1e7af5eb6a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "right": {
     "id": "9617b173c23784e9",
@@ -94,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-index/Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Threads"
+              "title": "Backlinks"
             }
           },
           {
@@ -155,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,49 +205,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "ai-tagger:Generate tags!": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1cadeb3e5b1b8361",
+  "active": "e467f1e7af5eb6a4",
   "lastOpenFiles": [
+    "0-index/MELI interview learning.md",
+    "0-index/Architectural Styles.md",
+    "0-index/INDEX.md",
+    "0-index/Untitled 2.md",
+    "3-resources/templater/Zettelkasten Note.md",
+    "0-index/Microservices.md",
+    "0-index/Arquitectura SOA.md",
+    "0-index/Web Communication Protocols.md",
+    "0-index/gRPC.md",
+    "0-index/WebSocket.md",
+    "0-index/SOAP.md",
+    "0-index/Software Architecture & Design.md",
+    "0-index/REST.md",
+    "0-index/HTTP.md",
+    "0-index/Computer Networks.md",
+    "0-index/goroutines.md",
+    "0-index/Go Scheduler.md",
+    "0-index/Parallelism.md",
+    "0-index/Concurrency and Synchronization.md",
+    "0-index/M-N Execution Model.md",
+    "0-index/Untitled 1.md",
+    "0-index/user-level threads.md",
+    "0-index/Context Switching.md",
+    "0-index/Dependency Injection.md",
+    "0-index/Threads.md",
     "3-resources/attachments/threads-sharing-resources.png",
     "3-resources/attachments",
     "0-index/attachments/Screenshot 2025-04-19 at 11.43.14 p.m..png",
     "0-index/attachments",
     "0-index/Heap (memory).md",
-    "0-index/Threads.md",
-    "0-index/Concurrency and Synchronization.md",
-    "0-index/Design Principles.md",
-    "0-index/S.O.L.I.D.md",
-    "0-index/Parallelism.md",
-    "0-index/IoC (inversion of control).md",
-    "0-index/Software Architecture & Design.md",
-    "0-index/Software Engineering.md",
-    "0-index/Computer Networks.md",
-    "0-index/Operating Systems.md",
-    "0-index/Fundamentals of Computer Science.md",
-    "3-resources/excalidraw/concurrency-in-os-2025-04-18-23.22.20.excalidraw.md",
-    "0-index/INDEX.md",
     "2-areas/software-engineering/software-architecture-and-design/design-principles",
     "2-areas/software-engineering/computer-networks/transport-protocols",
     "2-areas/software-engineering/operating-systems/process-and-threat-management",
-    "0-index/Context Switching.md",
-    "0-index/Process & Thread Management.md",
     "2-areas/software-engineering/software-engineering-practices",
     "2-areas/software-engineering/software-architecture-and-design",
     "2-areas/software-engineering/computer-networks",
     "2-areas/software-engineering/operating-systems",
     "2-areas/software-engineering/fundamentals-of-computer-science",
-    "0-index/202504181215.md",
-    "0-index/System Optimization Techniques.md",
-    "3-resources/templater/Zettelkasten Note.md",
-    "3-resources/templater/Standard Note.md",
-    "0-index/Single Responsibility.md",
-    "0-index/Open Closed Principle.md",
-    "0-index/Liskov Substitution Principle.md",
-    "0-index/Interface Segregation Principle.md",
-    "0-index/Horizontal Scaling.md",
     "3-resources/excalidraw/attachments/zoom-background.avif"
   ]
 }

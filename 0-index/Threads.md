@@ -3,7 +3,7 @@ title: Threads
 status:
   - todo
 created: 18-04-2025 09:36:17
-updated: 19-04-2025 23:48:01
+updated: 20-04-2025 10:50:27
 ---
 
 Un **hilo** es la **mínima unidad de ejecución** que puede ser programada por el sistema operativo.  
@@ -37,7 +37,7 @@ resumir lo siguiente
 
 “Note Threads do not share stack space. Although threads share the same memory space, it’s important to realize that each thread has its own private stack space (as was shown in figure 2.6).”
 
-Excerpt From
-Learn Concurrent Programming with Go
-James Cutajar
-This material may be protected by copyright.
+
+### Enlaces relacionados
+- [[user-level threads]]
+- [[goroutines]]
