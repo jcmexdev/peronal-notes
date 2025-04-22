@@ -1,8 +1,11 @@
 [
-  "dataview",
   "obsidian-excalidraw-plugin",
-  "tag-wrangler",
-  "obsidian-linter",
   "templater-obsidian",
-  "update-time-on-edit"
+  "update-time-on-edit",
+  "obsidian-outliner",
+  "obsidian-auto-split",
+  "obsidian-linter",
+  "tag-wrangler",
+  "quick-preview",
+  "table-editor-obsidian"
 ]

@@ -1,10 +1,9 @@
 ---
 created: 19-04-2025 11:31:58
-updated: 19-04-2025 13:37:45
+updated: 20-04-2025 22:26:30
 ---
-Aquí tienes el temario actualizado con los ajustes que hemos discutido, organizado de manera jerárquica:
 
----
+1. Fundamentals of Computer Science
 
 ### 1. **Fundamentals of Computer Science**
 

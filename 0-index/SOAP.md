@@ -3,7 +3,7 @@ title: SOAP (Simple Object Access Protocol)
 status:
   - todo
 created: 20-04-2025 17:59:53
-updated: 20-04-2025 18:26:06
+updated: 20-04-2025 21:50:30
 ---
 
 # SOAP (Simple Object Access Protocol)
@@ -59,7 +59,7 @@ Ejemplo típico: Integración entre sistemas legacy (ej. SAP con aplicaciones mo
 ## 🔗 Enlaces relacionados
 
 - [[WSDL - Contratos para servicios web]]
-- [[XML - Lenguaje de marcado extensible]]
+- [[XML]]
 
 ---
 

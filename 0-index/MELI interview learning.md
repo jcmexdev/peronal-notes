@@ -10,7 +10,7 @@ level:
 related: 
 source: []
 created: 16-04-2025 21:20:18
-updated: 20-04-2025 19:46:51
+updated: 21-04-2025 22:58:24
 ---
 
 
@@ -27,7 +27,7 @@ This is a preparation guide for mercado libre technical interview, with topics t
 - [x] Codificación
 - [x] Lenguajes
 - [x] Frameworks
-- [X] [[IoC (inversion of control)]]
+- [X] [[IoC]]
       Inyección de dependencias / Inversión de dependencias / Inversión de control
 - [x] SOLID
 - [x] DRY
@@ -43,17 +43,17 @@ This is a preparation guide for mercado libre technical interview, with topics t
 	- [x] Threads / Executors / Routines
 - [x] Paralelismo
 - [x] Web (HTTP, REST, SOAP, WebSocket)
-- [ ] Microservicios (consumo y desarrollo)
-- [ ] Concepto de idempotencia
-- [ ] Manejo de Timeouts / Reintentos / Fallbacks / Circuit Breakers
-- [ ] Transacciones atómicas
-- [ ] Desacople + Flujos asíncronos
-- [ ] Cola de mensajes (Productor / Consumidor)
-- [ ] Orientación a eventos
-- [ ] Gestión de tráfico y RPMs
+- [x] Microservicios (consumo y desarrollo)
+- [x] Concepto de idempotencia
+- [x] Manejo de Timeouts / Reintentos / Fallbacks / Circuit Breakers
+- [x] Transacciones atómicas
+- [x] Desacople + Flujos asíncronos
+- [x] Cola de mensajes (Productor / Consumidor)
+- [x] Orientación a eventos
+- [x] Gestión de tráfico y RPMs
 - [ ] Masividad + Tráfico
 - [ ] Volumen máximo manejado
-- [ ] Optimistic vs Pessimistic Locking
+- [x] Optimistic vs Pessimistic Locking
 - [ ] Procesos Batch
 - [ ] Pruebas de stress
 - [x] Patrones de diseño
@@ -86,8 +86,8 @@ This is a preparation guide for mercado libre technical interview, with topics t
 
 ## 🧱 Deuda Técnica
 
-- [ ] Deuda técnica buena vs mala
-- [ ] Métodos para disminuir deuda técnica
+- [x] Deuda técnica buena vs mala
+- [x] Métodos para disminuir deuda técnica
 - [ ] Impacto de no manejar deuda técnica
 - [ ] Decisiones que ayudan a evitar deuda técnica
 

@@ -1,0 +1,20 @@
+/* Listas jerárquicas: vista previa y modo edición (Live Preview) */
+.markdown-preview-view ol,
+.markdown-source-view.mod-cm6 .cm-content > ol {
+  counter-reset: item;
+  list-style: none;
+}
+
+.markdown-preview-view ol li,
+.markdown-source-view.mod-cm6 .cm-content ol > li {
+  display: block;
+  position: relative;
+  counter-increment: item;
+}
+
+.markdown-preview-view ol li::before,
+.markdown-source-view.mod-cm6 .cm-content ol > li::before {
+  content: counters(item, ".") ". ";
+  margin-left: -1em;
+  color: var(--text-muted); /* puedes cambiar el color si quieres */
+}

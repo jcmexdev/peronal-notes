@@ -9,7 +9,8 @@ status:
 🔖 **Tags**: 
 
 ---
-
+## Questions?
+- 
 ## 🧠 Main idea
 
 Un hilo (thread) es la unidad básica de ejecución dentro de un proceso. Comparte el mismo espacio de memoria que otros hilos del mismo proceso, pero tiene su propio contador de programa y pila.

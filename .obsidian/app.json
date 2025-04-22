@@ -1,8 +1,11 @@
 {
-  "showLineNumber": false,
+  "showLineNumber": true,
   "livePreview": false,
   "newFileLocation": "folder",
   "attachmentFolderPath": "3-resources/attachments",
   "newFileFolderPath": "0-index",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showIndentGuide": true,
+  "smartIndentList": false,
+  "defaultViewMode": "source"
 }

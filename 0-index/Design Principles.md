@@ -1,6 +1,6 @@
 ---
 created: 18-04-2025 00:40:41
-updated: 19-04-2025 15:59:56
+updated: 21-04-2025 01:03:49
 title: Design Principles
 status:
   - todo
@@ -26,9 +26,9 @@ Los principios de diseño son cruciales en el desarrollo de software y arquitect
 
 ## 🔗 Enlaces relacionados
 
-- [[Object-Oriented Programming (OOP)]] 
+- [[OOP]] 
 - [[S.O.L.I.D]]
-- [[IoC (inversion of control)]]
+- [[IoC]]
 - [[DRY]] 
 - [[YAGNI]]
 

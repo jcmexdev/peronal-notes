@@ -5,12 +5,12 @@ status:
 level:
   - basic
 created: 17-04-2025 15:20:47
-updated: 19-04-2025 13:21:17
+updated: 21-04-2025 01:03:49
 ---
 
 
 ## Summary
-DI is a most common technic to apply [[IoC (inversion of control)]]
+DI is a most common technic to apply [[IoC]]
 
 ---
 
