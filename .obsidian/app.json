@@ -1,11 +1,16 @@
 {
   "showLineNumber": true,
-  "livePreview": false,
+  "livePreview": true,
   "newFileLocation": "folder",
   "attachmentFolderPath": "3-resources/attachments",
   "newFileFolderPath": "0-index",
   "alwaysUpdateLinks": true,
   "showIndentGuide": true,
-  "smartIndentList": false,
-  "defaultViewMode": "source"
+  "smartIndentList": true,
+  "defaultViewMode": "source",
+  "userIgnoreFilters": [
+    "3-resources/templater/",
+    "3-resources/excalidraw/",
+    "0.1-refactor/"
+  ]
 }

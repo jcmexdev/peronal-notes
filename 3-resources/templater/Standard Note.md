@@ -1,7 +1,7 @@
 ---
 title: <% tp.file.title %>
-status: ["todo"]   # opciones: pendiente | en progreso | revisar | aprendido | actualizar | archivado
-level: ["basic"]       # opciones: básico | intermedio | avanzado
+status: ["todo"]  
+level: ["basic"]       
 ---
 
 
