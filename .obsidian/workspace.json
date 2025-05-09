@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3eae1d3941fbb43a",
+        "id": "c692268d51934c1b",
         "type": "tabs",
         "children": [
           {
-            "id": "071d3da93599a91d",
+            "id": "508f69a259f012d8",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "juggl_view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
             }
           }
         ]
@@ -212,13 +214,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "071d3da93599a91d",
+  "active": "508f69a259f012d8",
   "lastOpenFiles": [
-    "0-index/Thread communication with memory sharing.md",
-    "0-index/Write-Through Cache Policy.md",
+    "2-areas/concurrency/Reading Data From Memory.md",
+    "2-areas/concurrency/Thread communication with memory sharing.md",
+    "2-areas/concurrency/Write-Through Cache Policy.md",
+    "2-areas/concurrency",
     "3-resources/attachments/write-through-cache-policy.png",
     "3-resources/attachments/basic-memory-sharing-architecture.png",
-    "0-index/Reading Data From Memory.md",
     "2-areas/programing languages/golang/Untitled.md",
     "2-areas/programing languages/golang",
     "2-areas/programing languages",
@@ -250,7 +253,6 @@
     "2-areas/Software Engineering/5.Software Architecture/Distributed Systems",
     "2-areas/Software Engineering/5.Software Architecture/Architecture Styles",
     "2-areas/Software Engineering/4.Software Design/Design Patterns",
-    "2-areas/Software Engineering/4.Software Design/Design Principles/S.O.L.I.D",
     "3-resources/attachments/threads-sharing-resources.png",
     "0-index/attachments/Screenshot 2025-04-19 at 11.43.14 p.m..png",
     "3-resources/excalidraw/attachments/zoom-background.avif"

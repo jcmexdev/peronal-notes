@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "orderes-list"
+    "orderes-list",
+    "extended-colorschemes"
   ],
   "cssTheme": "AnuPpuccin"
 }

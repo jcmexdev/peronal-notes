@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiArchive",
+      "LiBadgeCheck",
+      "LiFileStack",
+      "LiListCollapse",
+      "LiStarList"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,12 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "2-areas/concurrency": "LiAlignHorizontalDistributeCenter",
+  "0-index": "LiInbox",
+  "0.1-refactor": "LiRefreshCcwDot",
+  "2-areas": "LiListCollapse",
+  "3-resources": "LiFileStack",
+  "1-projects": "LiBadgeCheck",
+  "4-archive": "LiArchive"
 }

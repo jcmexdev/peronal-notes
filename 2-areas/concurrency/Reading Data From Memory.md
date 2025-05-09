@@ -3,13 +3,12 @@ title: Reading Data From Memory
 status:
   - todo
 created: 04-05-2025 13:37:45
-updated: 04-05-2025 22:54:52
+updated: 08-05-2025 15:17:17
 ---
 
 # Reading Data From Memory
 ## Keywords
-- #bus 
-- kewword2
+- #bus
 
 ## Notes
 El proceso de lectura de la CUP a la memoria RAM es el siguiente:

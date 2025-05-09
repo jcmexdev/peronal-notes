@@ -75,8 +75,8 @@
     "0.1-refactor/user-level threads.md": "6c5eb760aae3c889c0e4c110510b1f86ac14f390c95fb41e6ca0a7379afa6e95",
     "0.1-refactor/Web Communication Protocols.md": "550b1243b203776031e174953e312a4225063709009a355b38d8a04be5c720b9",
     "0.1-refactor/WebSocket.md": "4b5999ce3abed5c92a154f37a621151a3c6da6e337bc9c9d367463c3239b66c4",
-    "0-index/Thread communication with memory sharing.md": "904a384988a1d25f011d92905714673a1b32e5e53f582d42a52349968f83456e",
-    "0-index/Reading Data From Memory.md": "a01448d0a8e176021f928d7c770d388507c8bf6ad352b51623a689d17419237d",
-    "0-index/Write-Through Cache Policy.md": "e5324ec1e65b4ae28236e7962d3f96e0e1ea877c7957cccf7c389a0dde1113e0"
+    "2-areas/concurrency/Thread communication with memory sharing.md": "904a384988a1d25f011d92905714673a1b32e5e53f582d42a52349968f83456e",
+    "2-areas/concurrency/Write-Through Cache Policy.md": "e5324ec1e65b4ae28236e7962d3f96e0e1ea877c7957cccf7c389a0dde1113e0",
+    "2-areas/concurrency/Reading Data From Memory.md": "79d08041b9284119f67f7fee6f56afebb748d29d5b011b9df06b2ea627079a8c"
   }
 }
